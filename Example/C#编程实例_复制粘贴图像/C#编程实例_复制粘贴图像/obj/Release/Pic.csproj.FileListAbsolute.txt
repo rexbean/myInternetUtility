@@ -1,0 +1,5 @@
+M:\C#程序实例\《Visual C# .NET精彩编程实例集锦》第5章 图像处理\实例110 如何复制粘贴图像\obj\Release\Pic.exe
+M:\C#程序实例\《Visual C# .NET精彩编程实例集锦》第5章 图像处理\实例110 如何复制粘贴图像\bin\Release\Pic.exe
+M:\C#程序实例\《Visual C# .NET精彩编程实例集锦》第5章 图像处理\实例110 如何复制粘贴图像\obj\Release\ResolveAssemblyReference.cache
+M:\C#程序实例\《Visual C# .NET精彩编程实例集锦》第5章 图像处理\实例110 如何复制粘贴图像\obj\Release\Pic.Form1.resources
+M:\C#程序实例\《Visual C# .NET精彩编程实例集锦》第5章 图像处理\实例110 如何复制粘贴图像\obj\Release\Pic.csproj.GenerateResource.Cache

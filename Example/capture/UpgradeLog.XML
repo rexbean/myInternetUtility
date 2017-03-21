@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="winStudy">
+</Property><Property Name="解决方案文件" Value="C:\Users\Administrator\Desktop\capture\winStudy.sln">
+</Property><Property Name="用户选项文件" Value="C:\Users\Administrator\Desktop\capture\winStudy.suo">
+</Property><Property Name="Date" Value="2013年8月10日">
+</Property><Property Name="Time" Value="12:23">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="winStudy.sln" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\winStudy.sln">
+</Event><Event ErrorLevel="0" Project="" Source="winStudy.suo" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\winStudy.suo">
+</Event><Event ErrorLevel="0" Project="winStudy" Source="winStudy\winStudy.csproj" Description="项目文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\winStudy\winStudy.csproj">
+</Event><Event ErrorLevel="0" Project="winStudy" Source="winStudy\GuideForm.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\winStudy\GuideForm.cs">
+</Event><Event ErrorLevel="0" Project="winStudy" Source="winStudy\GuideForm.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\winStudy\GuideForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="winStudy" Source="winStudy\MainForm.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\winStudy\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="winStudy" Source="winStudy\MainForm.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\winStudy\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="winStudy" Source="winStudy\MyCaptureForm.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\winStudy\MyCaptureForm.cs">
+</Event><Event ErrorLevel="0" Project="winStudy" Source="winStudy\MyCaptureForm.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\winStudy\MyCaptureForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="winStudy" Source="winStudy\Program.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\winStudy\Program.cs">
+</Event><Event ErrorLevel="0" Project="winStudy" Source="winStudy\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\winStudy\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="winStudy" Source="winStudy\Properties\Resources.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\winStudy\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="winStudy" Source="winStudy\Properties\Settings.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\winStudy\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="winStudy" Source="winStudy\ScreenForm.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\winStudy\ScreenForm.cs">
+</Event><Event ErrorLevel="0" Project="winStudy" Source="winStudy\ScreenForm.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\winStudy\ScreenForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="winStudy" Source="winStudy\Properties\Settings.settings" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\winStudy\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="winStudy" Source="winStudy\Resources\MainGuide.png" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\winStudy\Resources\MainGuide.png">
+</Event><Event ErrorLevel="0" Project="winStudy" Source="winStudy\Resources\arrow_m.ico" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\winStudy\Resources\arrow_m.ico">
+</Event><Event ErrorLevel="0" Project="winStudy" Source="winStudy\Resources\face1.png" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\winStudy\Resources\face1.png">
+</Event><Event ErrorLevel="0" Project="winStudy" Source="winStudy\Cursors\Arrow.cur" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\winStudy\Cursors\Arrow.cur">
+</Event><Event ErrorLevel="0" Project="winStudy" Source="winStudy\Cursors\ArrowNew.cur" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\winStudy\Cursors\ArrowNew.cur">
+</Event><Event ErrorLevel="0" Project="winStudy" Source="winStudy\Cursors\Cross.cur" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\winStudy\Cursors\Cross.cur">
+</Event><Event ErrorLevel="0" Project="winStudy" Source="winStudy\Cursors\CrossNew.cur" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\winStudy\Cursors\CrossNew.cur">
+</Event><Event ErrorLevel="0" Project="winStudy" Source="winStudy\ReadMe.txt" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\winStudy\ReadMe.txt">
+</Event><Event ErrorLevel="0" Project="winStudy" Source="winStudy\XMLFile1.xml" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\winStudy\XMLFile1.xml">
+</Event><Event ErrorLevel="0" Project="winStudy" Source="winStudy\GuideForm.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\winStudy\GuideForm.resx">
+</Event><Event ErrorLevel="0" Project="winStudy" Source="winStudy\MainForm.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\winStudy\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="winStudy" Source="winStudy\MyCaptureForm.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\winStudy\MyCaptureForm.resx">
+</Event><Event ErrorLevel="0" Project="winStudy" Source="winStudy\Properties\Resources.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\winStudy\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="winStudy" Source="winStudy\ScreenForm.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\winStudy\ScreenForm.resx">
+</Event><Event ErrorLevel="1" Project="winStudy" Source="winStudy\winStudy.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="winStudy" Source="winStudy\winStudy.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="winStudy" Source="winStudy\winStudy.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\CaptureImageTool.csproj" Description="项目文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\CaptureImageTool.csproj">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\CaptureImageTool.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\CaptureImageTool.cs">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\CaptureImageTool.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\CaptureImageTool.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\CaptureImageToolColorTable.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\CaptureImageToolColorTable.cs">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\ColorLabel.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\ColorLabel.cs">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\ColorSelector.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\ColorSelector.cs">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\ColorSelector.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\ColorSelector.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\ControlPaintEx.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\ControlPaintEx.cs">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\CursorManager.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\CursorManager.cs">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\DrawStyle.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\DrawStyle.cs">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\DrawTextData.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\DrawTextData.cs">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\DrawToolsControl.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\DrawToolsControl.cs">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\DrawToolsControl.designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\DrawToolsControl.designer.cs">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\DrawToolsDockStyle.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\DrawToolsDockStyle.cs">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\GraphicsPathHelper.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\GraphicsPathHelper.cs">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\NativeMethods.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\NativeMethods.cs">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\OperateManager.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\OperateManager.cs">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\OperateObject.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\OperateObject.cs">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\OperateType.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\OperateType.cs">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\ProfessionalCaptureImageToolColorTable.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\ProfessionalCaptureImageToolColorTable.cs">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\Properties\Resources.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\Properties\Settings.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\RegionHelper.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\RegionHelper.cs">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\RoundStyle.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\RoundStyle.cs">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\SizeGrip.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\SizeGrip.cs">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\ToolStripRendererEx.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\ToolStripRendererEx.cs">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\Properties\Settings.settings" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\Icons\Accept.ico" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\Icons\Accept.ico">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\Icons\Arrow.ico" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\Icons\Arrow.ico">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\Icons\Ellipse.ico" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\Icons\Ellipse.ico">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\Icons\Exit.ico" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\Icons\Exit.ico">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\Icons\Line.ico" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\Icons\Line.ico">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\Icons\Rectangular.ico" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\Icons\Rectangular.ico">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\Icons\Redo.png" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\Icons\Redo.png">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\Icons\Save.ico" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\Icons\Save.ico">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\Icons\Text.ico" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\Icons\Text.ico">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\CaptureImageTool.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\CaptureImageTool.resx">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\ColorSelector.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\ColorSelector.resx">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\DrawToolsControl.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\DrawToolsControl.resx">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\Properties\Resources.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\capture\Backup\CaptureImageTool\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="CaptureImageTool" Source="CaptureImageTool\CaptureImageTool.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\CaptureImageTool.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="CaptureImageTool" Source="CaptureImageTool\CaptureImageTool.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="winStudy.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="winStudy.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="winStudy" Source="winStudy\winStudy.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="CaptureImageTool" Source="CaptureImageTool\CaptureImageTool.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

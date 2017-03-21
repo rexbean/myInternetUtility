@@ -1,0 +1,161 @@
+private void BoldButton1_Click(object sender, EventArgs e)
+        {
+               Font oldFont = this.TextRichTextBox.SelectionFont;  
+               Font newFont;  
+               if (oldFont.Bold)  
+                   newFont = new Font(oldFont,oldFont.Style & ~FontStyle.Bold);  
+               else 
+                   newFont = new Font(oldFont,oldFont.Style | FontStyle.Bold);  
+               this.TextRichTextBox.SelectionFont = newFont;  
+               this.TextRichTextBox.Focus();  
+        }
+
+        private void ItalicButton_Click(object sender, EventArgs e)
+        {
+            Font oldFont = this.TextRichTextBox.SelectionFont;
+            Font newFont;
+            if (oldFont.Italic)
+                newFont = new Font(oldFont, oldFont.Style & ~FontStyle.Italic);
+            else
+                newFont = new Font(oldFont, oldFont.Style | FontStyle.Italic);
+            this.TextRichTextBox.SelectionFont = newFont;
+            this.TextRichTextBox.Focus();
+        }
+
+        private void UnderLineButton_Click(object sender, EventArgs e)
+        {
+            Font oldFont = this.TextRichTextBox.SelectionFont;
+            Font newFont;
+            if (oldFont.Underline)
+                newFont = new Font(oldFont, oldFont.Style & ~FontStyle.Underline);
+            else
+                newFont = new Font(oldFont, oldFont.Style | FontStyle.Underline);
+            this.TextRichTextBox.SelectionFont = newFont;
+            this.TextRichTextBox.Focus();
+        }
+
+        private void JustifyCentreButton_Click(object sender, EventArgs e)
+        {
+            if (this.TextRichTextBox.SelectionAlignment == HorizontalAlignment.Center)
+                this.TextRichTextBox.SelectionAlignment = HorizontalAlignment.Left;
+            else
+                this.TextRichTextBox.SelectionAlignment = HorizontalAlignment.Center;
+            this.TextRichTextBox.Focus();  
+        }
+
+        private void JustifyLeftButton_Click(object sender, EventArgs e)
+        {
+            if (this.TextRichTextBox.SelectionAlignment != HorizontalAlignment.Left)
+                this.TextRichTextBox.SelectionAlignment = HorizontalAlignment.Left;
+            this.TextRichTextBox.Focus(); 
+        }
+
+        private void JustifyRightButton_Click(object sender, EventArgs e)
+        {
+            if (this.TextRichTextBox.SelectionAlignment != HorizontalAlignment.Right)
+                this.TextRichTextBox.SelectionAlignment = HorizontalAlignment.Right;
+            this.TextRichTextBox.Focus();
+
+        }
+
+        private void WordColorButton_Click(object sender, EventArgs e)
+        {
+            ColorDialog colorDialog = new ColorDialog();
+            colorDialog.AllowFullOpen = true;
+            colorDialog.FullOpen = false;
+            colorDialog.ShowHelp = false;
+            colorDialog.Color = Color.Black;//初始化当前文本框中的字体颜色，当用户在ColorDialog对话框中点击"取消"按钮
+            colorDialog.ShowDialog();
+            TextRichTextBox.SelectionColor = colorDialog.Color;
+        }
+
+        private void InsertPictureButton_Click(object sender, EventArgs e)
+        {
+            openFileDialog1.Filter = "JPEG|*.jpg|BMP|*.bmp|所有文件|*.*";
+            if (openFileDialog1.ShowDialog() == DialogResult.OK)
+            {
+                Clipboard.SetDataObject(Image.FromFile(openFileDialog1.FileName), false);
+                TextRichTextBox.Paste();
+            }   
+        }
+
+        private void FontComboBox_TextChanged(object sender, EventArgs e)
+        {
+            string font = (string)FontComboBox.SelectedItem;          
+            if (SizeComboBox.SelectedItem != null)
+            {
+                float fontSize = float.Parse(SizeComboBox.SelectedItem.ToString());
+                TextRichTextBox.SelectionFont = new Font(font, fontSize);
+            }
+            else
+            {
+                TextRichTextBox.SelectionFont = new Font(font, 20);
+            }
+
+        }
+
+        private void SizeComboBox_TextChanged(object sender, EventArgs e)
+        {
+            float fontSize = float.Parse(SizeComboBox.SelectedItem.ToString());
+            if (FontComboBox.SelectedItem != null)
+            {
+                string font = (string)FontComboBox.SelectedItem;   
+                TextRichTextBox.SelectionFont = new Font(font,fontSize );
+            }
+            else
+            {
+                TextRichTextBox.SelectionFont = new Font("宋体",fontSize);
+            }
+        }
+        private void TextContextMenu_Opening(object sender, CancelEventArgs e)
+        {
+
+            //if (TextRichTextBox.SelectedText == "")
+            //{
+            //    //TextContextMenu.Items[0].Enabled = false;
+            //    //TextContextMenu.Items[1].Enabled = false;
+            //}
+            //else
+            //{
+            //    //TextContextMenu.Items[0].Enabled = true;
+            //    TextContextMenu.Items[1].Enabled = true;
+ 
+            //}
+        }
+
+        private void 复制ToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            //if (TextRichTextBox.SelectedText != "")
+            //{
+            //    //Clipboard.SetDataObject(TextRichTextBox.SelectedText);
+            //    //TextRichTextBox.Copy();
+            //}
+        }
+
+        private void 全选ToolStripMenuItem2_Click(object sender, EventArgs e)
+        {
+            //TextRichTextBox.SelectAll();
+        }
+
+        private void 粘贴全部ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+            //TextRichTextBox.Paste();
+        }
+
+        private void 仅粘贴文本ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            IDataObject iData = Clipboard.GetDataObject();
+
+            // Determines whether the data is in a format you can use.
+            if (iData.GetDataPresent(DataFormats.Text))
+            {
+                // Yes it is, so display it in a text box.
+                //TextRichTextBox.Text += iData.GetData(DataFormats.Text);
+            }
+        }
+
+        private void 剪切ToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            //TextRichTextBox.Cut();
+        }

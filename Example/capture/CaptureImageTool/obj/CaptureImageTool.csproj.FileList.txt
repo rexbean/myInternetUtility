@@ -1,0 +1,10 @@
+bin\Debug\CaptureImageTool.dll
+bin\Debug\CaptureImageTool.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CSharpWin.CaptureImageTool.resources
+obj\Debug\CSharpWin.ColorSelector.resources
+obj\Debug\CSharpWin.DrawToolsControl.resources
+obj\Debug\CSharpWin.Properties.Resources.resources
+obj\Debug\CaptureImageTool.csproj.GenerateResource.Cache
+obj\Debug\CaptureImageTool.dll
+obj\Debug\CaptureImageTool.pdb

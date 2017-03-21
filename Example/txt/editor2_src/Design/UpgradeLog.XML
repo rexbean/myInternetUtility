@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Design">
+</Property><Property Name="解决方案文件" Value="D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Design.sln">
+</Property><Property Name="Date" Value="2013年8月7日">
+</Property><Property Name="Time" Value="18:31">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Design.sln" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\Design.sln">
+</Event><Event ErrorLevel="0" Project="Design" Source="Design.csproj" Description="项目文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\Design.csproj">
+</Event><Event ErrorLevel="0" Project="Design" Source="Design.csproj.user" Description="项目用户文件成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\Design.csproj.user">
+</Event><Event ErrorLevel="0" Project="Design" Source="Editor.cs" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\Editor.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="Editor.Designer.cs" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\Editor.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="EditorForm.cs" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\EditorForm.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="EditorForm.Designer.cs" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\EditorForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="LinkDialog.cs" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\LinkDialog.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="LinkDialog.Designer.cs" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\LinkDialog.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="Program.cs" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="Properties\Resources.Designer.cs" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="Properties\Settings.Designer.cs" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="SearchDialog.cs" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\SearchDialog.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="SearchDialog.Designer.cs" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\SearchDialog.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="TextInsertForm.cs" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\TextInsertForm.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="TextInsertForm.Designer.cs" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\TextInsertForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="Properties\Settings.settings" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Design" Source="Resources\bold.bmp" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\Resources\bold.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="Resources\italic.bmp" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\Resources\italic.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="app.config" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="Design" Source="Resources\color.bmp" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\Resources\color.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="Resources\link.bmp" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\Resources\link.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="Resources\right_arrow.bmp" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\Resources\right_arrow.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="Resources\backcolor.bmp" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\Resources\backcolor.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="Resources\cj.bmp" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\Resources\cj.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="Resources\fj.bmp" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\Resources\fj.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="Resources\indent.bmp" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\Resources\indent.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="Resources\lj.bmp" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\Resources\lj.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="Resources\ol.bmp" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\Resources\ol.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="Resources\outdent.bmp" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\Resources\outdent.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="Resources\rj.bmp" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\Resources\rj.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="Resources\underscore.bmp" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\Resources\underscore.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="Resources\uol.bmp" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\Resources\uol.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="Editor.resx" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\Editor.resx">
+</Event><Event ErrorLevel="0" Project="Design" Source="EditorForm.resx" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\EditorForm.resx">
+</Event><Event ErrorLevel="0" Project="Design" Source="LinkDialog.resx" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\LinkDialog.resx">
+</Event><Event ErrorLevel="0" Project="Design" Source="Properties\Resources.resx" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Design" Source="SearchDialog.resx" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\SearchDialog.resx">
+</Event><Event ErrorLevel="0" Project="Design" Source="TextInsertForm.resx" Description="文件已成功备份为 D:\inspiration\MyBlog\Example\txt\editor2_src\Design\Backup\TextInsertForm.resx">
+</Event><Event ErrorLevel="1" Project="Design" Source="Design.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="Design" Source="Design.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Design" Source="Design.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Design.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="Design.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Design" Source="Design.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

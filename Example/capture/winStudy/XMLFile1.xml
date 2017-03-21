@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<ds1>
+  <dtbl1>
+    <Name>C# winform 最近更新</Name>
+    <URl>http://www.our-code.com/News/china/index.html</URl>
+  </dtbl1>
+    <dtbl1>
+    <Name>C# Asp.Net 最近更新</Name>
+    <URl>http://www.our-code.com/news/world/index.html</URl>
+  </dtbl1>
+  <dtbl1>
+    <Name>C# winform 给PictureBox控件添上滚动条，使用滚动条来查看图片</Name>
+    <URl>http://www.our-code.com/news/2010918/n2546121.html</URl>
+  </dtbl1>
+  <dtbl1>
+    <Name>[C#.NET]制作包含自定义操作的安装包</Name>
+    <URl>http://www.our-code.com/news/2010916/n0300119.html</URl>
+  </dtbl1>
+  <dtbl1>
+    <Name>.Net 2.0实例学习：WebBrowser页面与WinForm交互技巧</Name>
+    <URl>http://www.our-code.com/news/2010914/n2711116.html</URl>
+  </dtbl1>
+  <dtbl1>
+    <Name>Ajax简单聊天室源码和设计文档</Name>
+    <URl>http://www.our-code.com/news/2010726/n570762.html</URl>
+  </dtbl1>
+  <dtbl1>
+    <Name>为PrintPreviewControl加上鼠标滚轮支持和鼠标拖动预览页支持</Name>
+    <URl>http://www.our-code.com/news/2010727/n438771.html</URl>
+  </dtbl1>
+  <dtbl1>
+    <Name>sql server系统表详细说明</Name>
+    <URl>http://www.our-code.com/news/2010727/n040973.html</URl>
+  </dtbl1>
+  <dtbl1>
+    <Name>正则表达式 (Visual Studio) VS查找和替换技巧</Name>
+    <URl>http://www.our-code.com/news/2010729/n140778.html</URl>
+  </dtbl1>
+  <dtbl1>
+    <Name>ASP.NET注册IIS</Name>
+    <URl>http://www.our-code.com/news/2010727/n221063.html</URl>
+  </dtbl1>
+  <dtbl1>
+    <Name>vs 2005 sp1 安装失败的解决方案 安装VS2005 sp1的方法 </Name>
+    <URl>http://www.our-code.com/news/2010727/n114764.html</URl>
+  </dtbl1>
+  <dtbl1>
+    <Name>如何把多个文件写入到一个文件中去并能分解</Name>
+    <URl>http://www.our-code.com/News/2010719/n422049.html</URl>
+  </dtbl1>
+  <dtbl1>
+    <Name>C#中表达式的计算</Name>
+    <URl>http://www.our-code.com/News/2010718/n458047.html</URl>
+  </dtbl1>
+  <dtbl1>
+    <Name>浅谈C#随机数发生器</Name>
+    <URl>http://www.our-code.com/News/2010718/n360244.html</URl>
+  </dtbl1>
+  <dtbl1>
+    <Name>c#(winform)中ComboBox和ListBox添加项完全解决</Name>
+    <URl>http://www.our-code.com/News/2010716/n626537.html</URl>
+  </dtbl1>
+  <dtbl1>
+    <Name>C# 选择目录</Name>
+    <URl>http://www.our-code.com/News/2010716/n981536.html</URl>
+  </dtbl1>
+  <dtbl1>
+    <Name>C# WinForm开发系列 - DataGridView</Name>
+    <URl>http://www.our-code.com/News/2010716/n120635.html</URl>
+  </dtbl1>
+  <dtbl1>
+    <Name>微软官网winfrom例子</Name>
+    <URl>http://www.our-code.com/News/2010716/n436533.html</URl>
+  </dtbl1>
+  <dtbl1>
+    <Name>VS2005第三方控件地址</Name>
+    <URl>http://www.our-code.com/News/2010716/n947932.html</URl>
+  </dtbl1>
+  <dtbl1>
+    <Name>.Net(C#)自定义WinForm控件之小结篇</Name>
+    <URl>http://www.our-code.com/News/2010716/n178831.html</URl>
+  </dtbl1>
+  <dtbl1>
+    <Name>C#中时间差的计算</Name>
+    <URl>http://www.our-code.com/News/2010715/n968528.html</URl>
+  </dtbl1>
+  <dtbl1>
+    <Name>VS2008转VS2005</Name>
+    <URl>http://www.our-code.com/News/2009124/n19515.html</URl>
+  </dtbl1>
+  <dtbl1>
+    <Name>datagridviewcomboboxcolumn可选可编辑的三种方法</Name>
+    <URl>http://www.our-code.com/News/2009122/n686968694304.html</URl>
+  </dtbl1>
+  <dtbl1>
+    <Name>C# Asp.Net分页控件1.2</Name>
+    <URl>http://www.our-code.com/news/2010720/n401651.html</URl>
+  </dtbl1>
+  <dtbl1>
+    <Name>ajax乱码通用解决方法</Name>
+    <URl>http://www.our-code.com/news/2010718/n798945.html</URl>
+  </dtbl1>
+  <dtbl1>
+    <Name>__doPostBack无效的处理方法</Name>
+    <URl>http://www.our-code.com/news/2010712/n360624.html</URl>
+  </dtbl1>
+  <dtbl1>
+    <Name>网页中的GroupBox fieldset的用法 </Name>
+    <URl>http://www.our-code.com/news/2010715/n235329.html</URl>
+  </dtbl1>
+  <dtbl1>
+    <Name>如何给自己的网页加个图标 ICO个性图标</Name>
+    <URl>http://www.our-code.com/news/2010716/n253930.html</URl>
+  </dtbl1>
+  <!--C#正则表达式-->
+  <dtbl2>
+    <Name>C#正则表达式整理备忘</Name>
+    <URL>http://www.our-code.com/news/2010912/n0000110.html</URL>
+  </dtbl2>
+  <dtbl2>
+    <Name>C#正则表达式编程（一）：C#中有关正则的类</Name>
+    <URL>http://www.our-code.com/news/2010912/n6460111.html</URL>
+  </dtbl2>
+  <dtbl2>
+    <Name>C#正则表达式编程（二）：Regex类用法</Name>
+    <URL>http://www.our-code.com/news/2010912/n2573112.html</URL>
+  </dtbl2>
+  <dtbl2>
+    <Name>C#正则表达式编程（三）：Match类和Group类用法</Name>
+    <URL>http://www.our-code.com/news/2010912/n5289113.html</URL>
+  </dtbl2>
+  <dtbl2>
+    <Name>C#正则表达式编程（四）：正则表达式</Name>
+    <URL>http://www.our-code.com/news/2010912/n4797114.html</URL>
+  </dtbl2>
+  <!--<dtbl2>
+    <Name>C#正则表达式编程（四）：正则表达式</Name>
+    <URL>http://www.our-code.com/news/2010912/n4797114.html</URL>
+  </dtbl2>-->
+  <dtbl2>
+    <Name>C# 信息采集器</Name>
+    <URL>http://www.our-code.com/news/2010913/n5499115.html</URL>
+  </dtbl2>
+</ds1>

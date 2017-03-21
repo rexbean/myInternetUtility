@@ -1,0 +1,14 @@
+0 我的数据库 -1 D d:\
+1 人 0 D d:\
+2 机器 0 D d:\
+3 京东 0 website http://www.jd.com
+4 人人网 1 website http://www.renren.com
+5 心理学 1 D d:\
+6 武术 1 D d:\
+7 健美 1 D d:\
+8 人工智能 2 D d:\
+9 认知心理学 2 D d:\
+10 36氪 2 website http://www.36kr.com
+11 知乎网 6 website http://www.zhihu.com
+12 人人网 6 website http://www.renren.com
+13 刘未鹏 9 website http://mindhacks.cn

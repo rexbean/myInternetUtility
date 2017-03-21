@@ -1,0 +1,9 @@
+M:\C#程序实例\《Visual C# .NET精彩编程实例集锦》第5章 图像处理\实例110 如何复制粘贴图像\bin\Debug\Pic.exe
+M:\C#程序实例\《Visual C# .NET精彩编程实例集锦》第5章 图像处理\实例110 如何复制粘贴图像\bin\Debug\Pic.pdb
+M:\C#程序实例\《Visual C# .NET精彩编程实例集锦》第5章 图像处理\实例110 如何复制粘贴图像\obj\Debug\ResolveAssemblyReference.cache
+M:\C#程序实例\《Visual C# .NET精彩编程实例集锦》第5章 图像处理\实例110 如何复制粘贴图像\obj\Debug\Pic.Form1.resources
+M:\C#程序实例\《Visual C# .NET精彩编程实例集锦》第5章 图像处理\实例110 如何复制粘贴图像\obj\Debug\Pic.csproj.GenerateResource.Cache
+M:\C#程序实例\《Visual C# .NET精彩编程实例集锦》第5章 图像处理\实例110 如何复制粘贴图像\obj\Debug\Pic.exe
+M:\C#程序实例\《Visual C# .NET精彩编程实例集锦》第5章 图像处理\实例110 如何复制粘贴图像\obj\Debug\Pic.pdb
+C:\Users\Administrator\Desktop\C#编程实例_复制粘贴图像\C#编程实例_复制粘贴图像\obj\Debug\Pic.exe
+C:\Users\Administrator\Desktop\C#编程实例_复制粘贴图像\C#编程实例_复制粘贴图像\obj\Debug\Pic.pdb

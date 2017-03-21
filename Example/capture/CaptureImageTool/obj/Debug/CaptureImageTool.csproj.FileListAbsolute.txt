@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\capture\CaptureImageTool\bin\Debug\CaptureImageTool.dll
+C:\Users\Administrator\Desktop\capture\CaptureImageTool\bin\Debug\CaptureImageTool.pdb
+C:\Users\Administrator\Desktop\capture\CaptureImageTool\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\capture\CaptureImageTool\obj\Debug\CSharpWin.CaptureImageTool.resources
+C:\Users\Administrator\Desktop\capture\CaptureImageTool\obj\Debug\CSharpWin.ColorSelector.resources
+C:\Users\Administrator\Desktop\capture\CaptureImageTool\obj\Debug\CSharpWin.DrawToolsControl.resources
+C:\Users\Administrator\Desktop\capture\CaptureImageTool\obj\Debug\CSharpWin.Properties.Resources.resources
+C:\Users\Administrator\Desktop\capture\CaptureImageTool\obj\Debug\ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\capture\CaptureImageTool\obj\Debug\ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\capture\CaptureImageTool\obj\Debug\CaptureImageTool.dll
+C:\Users\Administrator\Desktop\capture\CaptureImageTool\obj\Debug\CaptureImageTool.pdb
